@@ -5,7 +5,7 @@
 # ᴄʟᴏꜱᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ 
 ⇁ Heartship.net (E-Commerce)
 <br>⇁ NextV.one (FiveM Server)
-<br>⇁ FlashHost.eu (Hosting)
+<br>⇁ FlashHost.eu (Web-, Domain- & Serverhosting)
 <br>⇁ Habbo.al (Online Browsergame)
 
 # ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
