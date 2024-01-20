@@ -1,3 +1,6 @@
+ᴅᴇꜱɪɢɴ + ᴄᴏᴅᴇ = ❤️
+
+
 # ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ 
 <img src="https://i.imgur.com/h2yqGYe.png" width="50%">
 ⇁ myEmotes.io (soon)
