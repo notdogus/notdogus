@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/h2yqGYe.png" width="50%">
 ⇁ myEmotes.io (soon)
 
-# ᴄʟᴏꜱᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ 
+# ᴄʟᴏꜱᴇᴅ/ꜱᴏʟᴅ ᴘʀᴏᴊᴇᴄᴛꜱ
 ⇁ Heartship.net (E-Commerce)
 <br>⇁ NextV.one (FiveM Server)
 <br>⇁ FlashHost.eu (Web-, Domain- & Serverhosting)
